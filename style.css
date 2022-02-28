@@ -1,0 +1,32 @@
+body{
+background-color: rgb(238, 209, 48);
+color: crimson;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    color: rgb(255, 0, 0);
+    background-color: rgb(17, 180, 230);
+    font-weight: bold;    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.name_of_members, #result_member_name,#result_member_accuracy{
+    color: rgb(197, 97, 139);
+}
+#camera{
+    border: 2px dashed black;
+    height: 300px;
+    width: 350px;
+    
+}
+#result
+{
+    border: 2px dashed black;
+    height: 300px;
+    width: 350px;
+    
+}
